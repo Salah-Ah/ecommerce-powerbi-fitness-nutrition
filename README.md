@@ -1,10 +1,10 @@
-📊 E-Commerce Analytics – Fitness & Nutrition Products
+# 📊 E-Commerce Analytics – Fitness & Nutrition Products
 
 Power BI End-to-End Business Intelligence Project (2010–2013)
 
-🔹 Background & Overview
+## 🔹 Background & Overview
 
-This project analyzes the business performance of an E-commerce & Retail company specializing in Fitness & Nutrition products, including Protein, Vitamins, Supplements, Gym Equipment, and Sports Clothing.
+This project analyzes the business (B2B) performance of an E-commerce & Retail company specializing in Fitness & Nutrition products, including Protein, Vitamins, Supplements, Gym Equipment, and Sports Clothing.
 
 The dataset consists of multiple transactional Excel/CSV files representing:
 
@@ -16,7 +16,7 @@ The analysis covers the period from January 2010 to December 2013 and focuses on
 
 The dataset was provided as a course business dataset and is used here strictly for educational and portfolio purposes with no publishing restrictions.
 
-🔹 Tools & Technologies
+## 🔹 Tools & Technologies
 
 Power BI
 
@@ -26,37 +26,37 @@ DAX (Measures & KPIs)
 
 CSV / Excel Data Sources
 
-🔹 Executive Summary
+## 🔹 Executive Summary
 
-During the period 2010–2013, the company achieved strong revenue growth, reaching:
+During the period 2010–2013, the business (B2B) achieved strong revenue growth, reaching:
 
-Total Revenue: $81M
+* Total Revenue: $81M
 
-Total Cost: $25M
+* Total Cost: $25M
 
-Total Profit: $56.77M
+* Total Profit: $56.77M
 
-Gross Margin: ~70%
+* Gross Margin: ~70%
 
-Total Orders: 3,796
+* Total Orders: 3,796
 
-Total Customers: 635
+* Total Customers: 635
 
-Return Orders: 1,546 (41% of all orders)
+* Return Orders: 1,546 (41% of all orders)
 
-Returned Value: $6.39M (8% of revenue)
+* Returned Value: $6.39M (8% of revenue)
 
-Key strategic observations:
+### Key strategic observations:
 
-The business is highly dependent on a single product category (Protein) and one dominant market (United States).
+* The business is highly dependent on a single product category (Protein) and one dominant market (United States).
 
-Customer retention is weak, with a large portion of customers making only one purchase.
+* Customer retention is weak, with a large portion of customers making only one purchase.
 
-Return rates are critically high, indicating potential quality or supply-chain issues.
+* Return rates are critically high, indicating potential quality or supply-chain issues.
 
-Despite strong top-line growth, operational risks threaten long-term sustainability.
+* Despite strong top-line growth, operational risks threaten long-term sustainability.
 
-🔹 Business Questions Addressed
+## 🔹 Business Questions Addressed
 
 Where does the company generate most of its revenue and profit?
 
@@ -68,8 +68,13 @@ Are we retaining customers or continuously replacing them?
 
 Which products should receive future investment?
 
-🔹 Insights Deep Dive
-📈 1. Sales Performance
+## Data Structure
+
+### Data model
+
+
+## 🔹 Insights Deep Dive
+### 📈 1. Sales Performance
 
 Revenue grew significantly from $18M in 2011 to $34M in 2013, but Gross Margin declined from 71% to 69%.
 
@@ -81,7 +86,7 @@ Warehouse channel leads sales (48%), followed closely by Supplement Stores (43.5
 
 Canada ranks second with $14M but remains far behind the U.S.
 
-👥 2. Customer Analysis
+### 👥 2. Customer Analysis
 
 The majority of customers are one-time buyers, indicating weak loyalty.
 
@@ -95,7 +100,7 @@ Average Order Value (AOV) is high at $21.46K, suggesting bulk or B2B purchasing 
 
 New customer acquisitions increased annually, but retention failed to keep pace.
 
-🔄 3. Return Analysis
+### 🔄 3. Return Analysis
 
 41% of all orders were returned — a critical operational issue.
 
@@ -107,7 +112,7 @@ Southwest region experiences the most returns, indicating potential logistics or
 
 Clear seasonality in returns during Jan, May, Aug, and Oct.
 
-📅 4. Time Analysis
+### 📅 4. Time Analysis
 
 Year-to-date revenue shows a strong upward trend.
 
@@ -121,7 +126,7 @@ December is consistently the strongest sales month.
 
 Profit margins remain relatively stable around 72–73%.
 
-🛍️ 5. Product Analysis
+### 🛍️ 5. Product Analysis
 
 Products priced between $0–$1000 generate 70% of total profit.
 
@@ -133,7 +138,7 @@ Concentrate Whey shows strong margins but high return risk.
 
 Overall cost ratio is only 30%, reflecting healthy nominal margins.
 
-🔹 Key Business Risks Identified
+## 🔹 Key Business Risks Identified
 
 Extremely high return rate (41%)
 
@@ -143,7 +148,7 @@ Over-reliance on a single category (Protein) and single market (USA)
 
 These risks directly threaten long-term profitability and scalability.
 
-🔹 Strategic Recommendations
+## 🔹 Strategic Recommendations
 
 Launch a Return Reduction Program
 
@@ -175,7 +180,7 @@ Investigate sharp monthly revenue drops.
 
 Improve demand forecasting and inventory planning.
 
-🔹 Dataset Information
+## 🔹 Dataset Information
 
 Data Source: Course Business Dataset
 
@@ -191,7 +196,7 @@ Time Range: January 2010 – December 2013
 
 Publishing Restrictions: None
 
-🔹 How to Use the Project
+## 🔹 How to Use the Project
 
 Download the Power BI (.pbix) file
 
@@ -203,14 +208,15 @@ Open the PBIX file in Power BI Desktop
 
 No additional setup is required.
 
-🔹 About Me
+## 💫 About Me
 
-Salah Ahmed
-Data Analyst passionate about transforming data into clear business decisions.
-Skilled in Power BI, SQL, Excel, and Business Intelligence workflows.
+My name is Salah Ahmed, 
+I'm a Data Analyst passionate about transforming data into clear business decisions.
+Skilled in Power BI, SQL, Excel, and Business Intelligence workflows
+I am interested in AI technologies and database engineering.
 
-📧 Email: salahahmedofficial99@gmail.com
+📧 Email: [salahahmedofficial99@gmail.com]
 
-🔗 LinkedIn: https://www.linkedin.com/in/salah-ahmed-/
+🔗 LinkedIn: [https://www.linkedin.com/in/salah-ahmed-/]
 
-💻 GitHub: (add here)
+💻 GitHub: [(https://github.com/Salah-Ah?tab=repositories)]
