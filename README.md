@@ -58,153 +58,142 @@ During the period 2010–2013, the business (B2B) achieved strong revenue growth
 
 ## 🔹 Business Questions Addressed
 
-Where does the company generate most of its revenue and profit?
+1. Where does the company generate most of its revenue and profit?
 
-Is the revenue growth healthy and sustainable?
+2. Is the revenue growth healthy and sustainable?
 
-Why are product return rates exceptionally high?
+3. Why are product return rates exceptionally high?
 
-Are we retaining customers or continuously replacing them?
+4. Are we retaining customers or continuously replacing them?
 
-Which products should receive future investment?
+5. Which products should receive future investment?
 
 ## Data Structure
 
 ### Data model
-
+![image alt](https://github.com/Salah-Ah/ecommerce-powerbi-fitness-nutrition/blob/03178519cb00c83e2b67e10153f42347169a7032/dashboard-images/Data%20model.png)
 
 ## 🔹 Insights Deep Dive
 ### 📈 1. Sales Performance
+<img width="1441" height="815" alt="Sales performance" src="https://github.com/user-attachments/assets/8c74463c-9d58-49b1-adbb-70fc8ee62d0b" />
 
-Revenue grew significantly from $18M in 2011 to $34M in 2013, but Gross Margin declined from 71% to 69%.
 
-United States dominates sales with $54M (67%) of total revenue.
+* Revenue grew significantly from $18M in 2011 to $34M in 2013, but Gross Margin declined from 71% to 69%.
 
-Protein products alone generate 89% of total revenue ($72M) → high business concentration risk.
+* United States dominates sales with $54M (67%) of total revenue.
 
-Warehouse channel leads sales (48%), followed closely by Supplement Stores (43.5%).
+* Protein products alone generate 89% of total revenue ($72M) → high business concentration risk.
 
-Canada ranks second with $14M but remains far behind the U.S.
+* Warehouse channel leads sales (48%), followed closely by Supplement Stores (43.5%).
+
+* Canada ranks second with $14M but remains far behind the U.S.
 
 ### 👥 2. Customer Analysis
+<img width="1455" height="798" alt="Customer Analysis" src="https://github.com/user-attachments/assets/a96e2b15-9200-485e-b057-773660c3a83a" />
 
 The majority of customers are one-time buyers, indicating weak loyalty.
 
 Customer churn is very high:
 
-489 customers lost in 2013 alone.
+* 489 customers lost in 2013 alone.
 
-Southwest region is the most profitable with $13M profit despite a smaller customer base.
+* Southwest region is the most profitable with $13M profit despite a smaller customer base.
 
-Average Order Value (AOV) is high at $21.46K, suggesting bulk or B2B purchasing behavior.
+* Average Order Value (AOV) is high at $21.46K, suggesting bulk or B2B purchasing behavior.
 
-New customer acquisitions increased annually, but retention failed to keep pace.
+* New customer acquisitions increased annually, but retention failed to keep pace.
 
 ### 🔄 3. Return Analysis
+<img width="1442" height="812" alt="Return Analysis" src="https://github.com/user-attachments/assets/b496243b-4195-4097-85bc-608874fbf0c9" />
 
-41% of all orders were returned — a critical operational issue.
 
-57% of all customers returned at least one order.
+* 41% of all orders were returned — a critical operational issue.
 
-Whey Protein has the highest return volume, followed by Meal Replacement products.
+* 57% of all customers returned at least one order.
 
-Southwest region experiences the most returns, indicating potential logistics or supplier issues.
+* Whey Protein has the highest return volume, followed by Meal Replacement products.
 
-Clear seasonality in returns during Jan, May, Aug, and Oct.
+* Southwest region experiences the most returns, indicating potential logistics or supplier issues.
+
+* Clear seasonality in returns during Jan, May, Aug, and Oct.
 
 ### 📅 4. Time Analysis
+<img width="1475" height="815" alt="Time analysis" src="https://github.com/user-attachments/assets/4a26e5bb-e659-4633-b8b0-ebf444a4251b" />
 
 Year-to-date revenue shows a strong upward trend.
 
-2011 experienced explosive growth (+3650%) compared to 2010.
-
 Significant monthly volatility observed:
 
-Revenue dropped 67% from May to June in one year.
+* Revenue dropped 67% from May to June in one year.
 
-December is consistently the strongest sales month.
+* December is consistently the strongest sales month.
 
-Profit margins remain relatively stable around 72–73%.
+* Profit margins remain relatively stable around 72–73%.
 
 ### 🛍️ 5. Product Analysis
 
-Products priced between $0–$1000 generate 70% of total profit.
+<img width="1442" height="822" alt="Product analysis" src="https://github.com/user-attachments/assets/818056f5-cc00-49a4-aea3-537c87be46a6" />
 
-Pure Casein Protein is the most profitable product, despite not being the most returned.
 
-Hydrolyzed products deliver the highest AOV.
+* Products priced between $0–$1000 generate 70% of total profit.
 
-Concentrate Whey shows strong margins but high return risk.
+* Pure Casein Protein is the most profitable product, despite not being the most returned.
 
-Overall cost ratio is only 30%, reflecting healthy nominal margins.
+* Hydrolyzed products deliver the highest AOV.
+
+* Concentrate Whey shows strong margins but high return risk.
+
+* Overall cost ratio is only 30%, reflecting healthy nominal margins.
 
 ## 🔹 Key Business Risks Identified
 
-Extremely high return rate (41%)
+* Extremely high return rate (41%)
 
-Severe customer churn
+* Severe customer churn
 
-Over-reliance on a single category (Protein) and single market (USA)
+* Over-reliance on a single category (Protein) and single market (USA)
 
-These risks directly threaten long-term profitability and scalability.
+* These risks directly threaten long-term profitability and scalability.
 
 ## 🔹 Strategic Recommendations
 
-Launch a Return Reduction Program
+* Launch a Return Reduction Program
 
-Perform supplier audits for Whey and Meal Replacement products.
+* Perform supplier audits for Whey and Meal Replacement products.
 
-Investigate packaging, logistics, and product quality issues in Southwest regions.
+* Investigate packaging, logistics, and product quality issues in Southwest regions.
 
-Implement Customer Retention Strategy
+* Implement Customer Retention Strategy
 
-Introduce loyalty programs and re-engagement campaigns.
+* Introduce loyalty programs and re-engagement campaigns.
 
-Segment high-value customers for personalized offers.
+* Segment high-value customers for personalized offers.
 
-Diversify Product Revenue
+* Increase investment into Hydrolyzed and Casein products.
 
-Increase investment into Hydrolyzed and Casein products.
+* Reduce dependency on Protein alone.
 
-Reduce dependency on Protein alone.
+* Geographical Risk Diversification
 
-Geographical Risk Diversification
+* Scale operations in Canada and new international markets.
 
-Scale operations in Canada and new international markets.
+* Reduce U.S. market over-concentration.
 
-Reduce U.S. market over-concentration.
+* Stabilize Revenue Volatility
 
-Stabilize Revenue Volatility
+* Investigate sharp monthly revenue drops.
 
-Investigate sharp monthly revenue drops.
-
-Improve demand forecasting and inventory planning.
-
-## 🔹 Dataset Information
-
-Data Source: Course Business Dataset
-
-Data Format: Multiple Excel / CSV files
-
-Fact Tables:
-
-Sales Transactions
-
-Return Transactions
-
-Time Range: January 2010 – December 2013
-
-Publishing Restrictions: None
+* Improve demand forecasting and inventory planning.
 
 ## 🔹 How to Use the Project
 
-Download the Power BI (.pbix) file
+1. Download the Power BI (.pbix) file
 
-Download the dataset Excel/CSV files
+2. Download the dataset Excel/CSV files
 
-Ensure the dataset files are in the same directory as the PBIX file
+3. Ensure the dataset files are in the same directory as the PBIX file
 
-Open the PBIX file in Power BI Desktop
+4. Open the PBIX file in Power BI Desktop
 
 No additional setup is required.
 
